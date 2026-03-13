@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AeroQuiz Privacy Policy</title>
+<meta charset="UTF-8">
+<style>
+body{
+font-family: Arial, sans-serif;
+max-width: 800px;
+margin: 40px auto;
+line-height: 1.6;
+padding: 20px;
+}
+h1,h2{color:#333;}
+</style>
+</head>
+
+<body>
+
+<h1>Privacy Policy for AeroQuiz</h1>
+<p><strong>Last updated:</strong> March 12, 2026</p>
+
+<h2>1. Information We Collect</h2>
+<p>We may collect basic usage information such as device type, browser type,
+quiz results, and interaction data when you use AeroQuiz.</p>
+
+<h2>2. How We Use Information</h2>
+<p>The information we collect helps us:</p>
+<ul>
+<li>Improve the quiz experience</li>
+<li>Analyze usage trends</li>
+<li>Maintain security</li>
+</ul>
+
+<h2>3. Cookies</h2>
+<p>AeroQuiz may use cookies or similar technologies to improve user experience.</p>
+
+<h2>4. Third-Party Services</h2>
+<p>We may use hosting or analytics services that collect technical data necessary
+for operating the website.</p>
+
+<h2>5. Data Security</h2>
+<p>We take reasonable measures to protect your information but cannot guarantee
+complete security.</p>
+
+<h2>6. Children’s Privacy</h2>
+<p>This service is not directed to children under 13.</p>
+
+<h2>7. Changes</h2>
+<p>This privacy policy may be updated periodically.</p>
+
+<h2>8. Contact</h2>
+<p>Email: support@aeroquiz.app</p>
+
+</body>
+</html>
